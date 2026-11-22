@@ -1,0 +1,1 @@
+Official SS Dempo College logo goes here, then set collegeLogo in index.html (search for VYRON_CONFIG).
